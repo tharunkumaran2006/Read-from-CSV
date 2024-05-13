@@ -1,7 +1,7 @@
 # Read-from-CSV
 
 ## AIM:
-
+To write a python program for reading the csv file content
 ## ALGORITHM:
 ### Step 1:
 Load the CSV into a DataFrame.
